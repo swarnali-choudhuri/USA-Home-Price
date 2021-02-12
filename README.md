@@ -9,4 +9,4 @@ Average income of people in the area.
 The models used:
 Linear Regression
 Decision Tree
-Random Forest
+Random Forest.
